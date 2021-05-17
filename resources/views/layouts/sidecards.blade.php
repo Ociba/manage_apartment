@@ -2,8 +2,8 @@
     <!-- START widget-->
     <div class="panel widget">
         <div class="panel-body bg-warning text-center">
-        <div class="text-lg m0">18&deg;</div>
-        <p>Paris</p>
+        <div class="text-lg m0">18</div>
+        <p>No. of Apartments Located</p>
         <div class="mb-lg"></div>
         <em class="fa fa-sun-o fa-2x"></em>
         </div>
@@ -14,7 +14,7 @@
         <div class="panel-body bg-primary">
         <div class="row row-table row-flush">
             <div class="col-xs-8">
-                <p class="mb0">New visitors</p>
+                <p class="mb0">New of Customers</p>
                 <h3 class="m0">1.5k</h3>
             </div>
             <div class="col-xs-4 text-center">
@@ -35,7 +35,7 @@
         <div class="panel-body bg-purple">
         <div class="row row-table row-flush">
             <div class="col-xs-8">
-                <p class="mb0">Bounce Rate</p>
+                <p class="mb0">New Customers</p>
                 <h3 class="m0">50%</h3>
             </div>
             <div class="col-xs-4 text-center">
@@ -51,7 +51,7 @@
         </div>
     </div>
     <!-- START widget-->
-    <div data-toggle="play-animation" data-play="fadeInDown" data-offset="0" data-delay="1000" class="panel widget">
+    {{--<div data-toggle="play-animation" data-play="fadeInDown" data-offset="0" data-delay="1000" class="panel widget">
         <div class="panel-body bg-danger">
         <div class="row row-table row-flush">
             <div class="col-xs-8">
@@ -90,4 +90,5 @@
         </div>
         </div>
     </div>
+    --}}
 </aside>
