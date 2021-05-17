@@ -14,3 +14,4 @@
 <!-- FastClick for mobiles-->
 <script src="{{ asset('admin/vendor/fastclick/fastclick.js')}}" type="application/javascript"></script>
 <script src="ga.js" type="application/javascript"></script>
+<link rel="stylesheet" href="{{ asset('admin/app/css/landing.css')}}">

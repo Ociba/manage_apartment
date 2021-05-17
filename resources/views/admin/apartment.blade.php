@@ -50,9 +50,13 @@
                <div class="col-lg-4">
                   <!-- START widget-->
                   <div class="panel widget">
-                     <img src="{{ asset('admin/app/img/bg1.jpg')}}" alt="Image" class="img-responsive">
+                     <img src="{{ asset('admin/apartments/apart5.jpeg')}}" style="width:318px; height:190px;" alt="Image" class="img-responsive">
+                     <div class="badge-overlay">
+                        <!-- Change Badge Position, Color, Text here-->
+                        <span class="top-left badge orange">Available</span>
+                    </div>
                      <div class="panel-body">
-                        <div class="row row-table text-center">
+                        <div class="row row-table text-center mb-2">
                            <div class="col-xs-4">
                               <p>Rooms</p>
                               <h3 class="m0 text-primary">4</h3>
@@ -63,11 +67,11 @@
                            </div>
                            <div class="col-xs-4">
                               <p>Amount</p>
-                              <h3 class="m0 text-primary">5</h3>
+                              <h3 class="m0 text-primary">250,000</h3>
                            </div>
                         </div>
                         <div class="row row-table text-center">
-                            Kawempe
+                            <h4 style="color:blue;">Kawempe</h4>
                         </div>
                      </div>
                   </div>
@@ -76,7 +80,11 @@
                <div class="col-lg-4">
                   <!-- START widget-->
                   <div class="panel widget">
-                     <img src="{{ asset('admin/app/img/bg1.jpg')}}" alt="Image" class="img-responsive">
+                     <img src="{{ asset('admin/apartments/apart4.jpeg')}}" style="width:318px; height:190px;" alt="Image" class="img-responsive">
+                     <div class="badge-overlay">
+                        <!-- Change Badge Position, Color, Text here-->
+                        <span class="top-left badge orange">Available</span>
+                    </div>
                      <div class="panel-body">
                         <div class="row row-table text-center">
                            <div class="col-xs-4">
@@ -93,7 +101,7 @@
                            </div>
                         </div>
                         <div class="row row-table text-center">
-                            Kawempe
+                            <h4 style="color:blue;">Makerere</h4>
                         </div>
                      </div>
                   </div>
@@ -102,7 +110,11 @@
                <div class="col-lg-4">
                   <!-- START widget-->
                   <div class="panel widget">
-                     <img src="{{ asset('admin/app/img/bg1.jpg')}}" alt="Image" class="img-responsive">
+                     <img src="{{ asset('admin/apartments/apart6.jpeg')}}" style="width:318px; height:190px;" alt="Image" class="img-responsive">
+                     <div class="badge-overlay">
+                        <!-- Change Badge Position, Color, Text here-->
+                        <span class="top-left badge orange">Available</span>
+                    </div>
                      <div class="panel-body">
                         <div class="row row-table text-center">
                            <div class="col-xs-4">
@@ -119,7 +131,7 @@
                            </div>
                         </div>
                         <div class="row row-table text-center">
-                            Kawempe
+                            <h4 style="color:blue;">Natete</h4>
                         </div>
                      </div>
                   </div>
@@ -131,7 +143,11 @@
                <div class="col-lg-4">
                   <!-- START widget-->
                   <div class="panel widget">
-                     <img src="{{ asset('admin/app/img/bg1.jpg')}}" alt="Image" class="img-responsive">
+                     <img src="{{ asset('admin/apartments/apart1.jpeg')}}" style="width:318px; height:190px;" alt="Image" class="img-responsive">
+                     <div class="badge-overlay">
+                        <!-- Change Badge Position, Color, Text here-->
+                        <span class="top-left badge orange">Available</span>
+                    </div>
                      <div class="panel-body">
                         <div class="row row-table text-center">
                            <div class="col-xs-4">
@@ -148,7 +164,7 @@
                            </div>
                         </div>
                         <div class="row row-table text-center">
-                            Kawempe
+                            <h4 style="color:blue;">Mulago</h4>
                         </div>
                      </div>
                   </div>
@@ -157,7 +173,11 @@
                <div class="col-lg-4">
                   <!-- START widget-->
                   <div class="panel widget">
-                     <img src="{{ asset('admin/app/img/bg1.jpg')}}" alt="Image" class="img-responsive">
+                     <img src="{{ asset('admin/apartments/apart2.jpeg')}}" style="width:318px; height:190px;" alt="Image" class="img-responsive">
+                     <div class="badge-overlay">
+                        <!-- Change Badge Position, Color, Text here-->
+                        <span class="top-left badge orange">Available</span>
+                    </div>
                      <div class="panel-body">
                         <div class="row row-table text-center">
                            <div class="col-xs-4">
@@ -174,7 +194,7 @@
                            </div>
                         </div>
                         <div class="row row-table text-center">
-                            Kawempe
+                            <h4 style="color:blue;">Mengo</h4>
                         </div>
                      </div>
                   </div>
@@ -183,7 +203,11 @@
                <div class="col-lg-4">
                   <!-- START widget-->
                   <div class="panel widget">
-                     <img src="{{ asset('admin/app/img/bg1.jpg')}}" alt="Image" class="img-responsive">
+                     <img src="{{ asset('admin/apartments/apart3.jpeg')}}" style="width:318px; height:190px;" alt="Image" class="img-responsive">
+                     <div class="badge-overlay">
+                        <!-- Change Badge Position, Color, Text here-->
+                        <span class="top-left badge orange">Available</span>
+                    </div>
                      <div class="panel-body">
                         <div class="row row-table text-center">
                            <div class="col-xs-4">
@@ -200,7 +224,7 @@
                            </div>
                         </div>
                         <div class="row row-table text-center">
-                            Kawempe
+                            <h4 style="color:blue;">Bwaise</h4>
                         </div>
                      </div>
                   </div>

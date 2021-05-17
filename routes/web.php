@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\UserController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -21,6 +21,7 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('admin.dashboard');
 })->name('dashboard');
 
-Route::get('/payment', function(){ return view('admin.payment');});
-Route::get('/service-requested', function(){ return view('admin.service-request');});
-Route::get('/apartment', function(){ return view('admin.apartment');});
+Route::get('/payment', function(){ return view('admin.payment');})->name('Payment');
+Route::get('/service-requested', function(){ return view('admin.service-request');})->name('Service Requested');
+Route::get('/apartment', function(){ return view('admin.apartment');})->name('Apartment');
+Route::get('logout',[UserController::Class, 'logout']);

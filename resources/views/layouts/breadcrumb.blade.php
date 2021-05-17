@@ -1,5 +1,5 @@
 
-<h3>Dashboard
+<h3>{{\Request::route()->getName()}}
     <br>
-    <small>Welcome user</small>
+    <small>Welcome {{auth()->user()->name}}</small>
 </h3>

@@ -10,19 +10,19 @@
                   </a>
                </li>
                <li>
-                  <a href="/payment" title="Elements">
+                  <a href="/payment" title="Payments">
                      <em class="fa fa-flask"></em>
                      <span class="item-text">Payments</span>
                   </a>
                </li>
                <li>
-                  <a href="/service-requested" title="Pages">
+                  <a href="/service-requested" title="Request Service">
                      <em class="fa fa-file-text-o"></em>
                      <span class="item-text">Request Service</span>
                   </a>
                </li>
                <li>
-                  <a href="/apartment" title="Maps">
+                  <a href="/apartment" title="Apartments">
                      <em class="fa fa-globe"></em>
                      <span class="item-text">Apartments</span>
                   </a>

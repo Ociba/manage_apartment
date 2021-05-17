@@ -223,11 +223,11 @@
          <!-- START User menu-->
          <li class="dropdown">
             <a href="#" data-toggle="dropdown" data-play="fadeIn" class="dropdown-toggle">
-               <em class="fa fa-tencent-weibo"></em>
+               {{--<em class="fa fa-tencent-weibo"></em>--}} Logout
             </a>
             <!-- START Dropdown menu-->
             <ul class="dropdown-menu">
-               <li>
+               {{--<li>
                   <div class="p">
                      <p>Overall progress</p>
                      <div class="progress progress-striped progress-xs m0">
@@ -246,7 +246,8 @@
                </li>
                <li><a href="#">Messages<div class="label label-danger pull-right">10</div></a>
                </li>
-               <li><a href="#">Logout</a>
+               --}}
+               <li><a href="/logout">Logout</a>
                </li>
             </ul>
             <!-- END Dropdown menu-->

@@ -47,96 +47,123 @@
             <div class="row">
                <div id="portlet-1" data-toggle="portlet" class="col-lg-4">
                   <!-- START panel-->
-                  <div id="panel-1" class="panel panel-default">
-                     <div class="panel-heading portlet-handler">Default Panel
+                  <div id="panel-1" class="panel panel-primary">
+                     <div class="panel-heading portlet-handler">Receipt
                         <a href="#" data-perform="panel-collapse" data-toggle="tooltip" title="Collapse Panel" class="pull-right">
                            <em class="fa fa-minus"></em>
                         </a>
                      </div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt1.jpeg')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt1.jpeg" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                   <!-- START panel-->
                   <div id="panel-2" class="panel panel-primary">
-                     <div class="panel-heading portlet-handler">Primary Panel
+                     <div class="panel-heading portlet-handler">Receipt
                         <a href="#" data-perform="panel-collapse" data-toggle="tooltip" title="Collapse Panel" class="pull-right">
                            <em class="fa fa-minus"></em>
                         </a>
                      </div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt2.jpeg')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt2.jpeg" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                   <!-- START panel-->
-                  <div id="panel-3" class="panel panel-success">
-                     <div class="panel-heading portlet-handler">Success Panel</div>
+                  <div id="panel-3" class="panel panel-primary">
+                     <div class="panel-heading portlet-handler">Receipt</div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt3.png')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt3.png" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                </div>
                <div id="portlet-2" data-toggle="portlet" class="col-lg-4">
                   <!-- START panel-->
-                  <div id="panel-6" class="panel panel-info">
-                     <div class="panel-heading portlet-handler">Info Panel</div>
+                  <div id="panel-6" class="panel panel-primary">
+                     <div class="panel-heading portlet-handler">Receipt</div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt4.png')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt4.png" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                   <!-- START panel-->
-                  <div id="panel-7" class="panel panel-warning">
-                     <div class="panel-heading portlet-handler">Warning Panel</div>
+                  <div id="panel-7" class="panel panel-primary">
+                     <div class="panel-heading portlet-handler">Receipt</div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt5.jpeg')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt5.jpeg" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                   <!-- START panel-->
-                  <div id="panel-8" class="panel panel-danger">
-                     <div class="panel-heading portlet-handler">Danger Panel</div>
+                  <div id="panel-8" class="panel panel-primary">
+                     <div class="panel-heading portlet-handler">Receipt</div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt6.png')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt6.png" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                </div>
                <div id="portlet-3" data-toggle="portlet" class="col-lg-4">
                   <!-- START panel-->
-                  <div id="panel-11" class="panel panel-inverse">
-                     <div class="panel-heading portlet-handler">Inverse Panel</div>
+                  <div id="panel-11" class="panel panel-primary">
+                     <div class="panel-heading portlet-handler">Receipt</div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt7.jpeg')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt7.jpeg" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                   <!-- START panel-->
-                  <div id="panel-12" class="panel panel-purple">
-                     <div class="panel-heading portlet-handler">Purple Panel</div>
+                  <div id="panel-12" class="panel panel-primary">
+                     <div class="panel-heading portlet-handler">Receipt</div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt7.jpeg')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt7.jpeg" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                   <!-- START panel-->
-                  <div id="panel-13" class="panel panel-green">
-                     <div class="panel-heading portlet-handler">Green Panel</div>
+                  <div id="panel-13" class="panel panel-primary">
+                     <div class="panel-heading portlet-handler">Receipt</div>
                      <div class="panel-body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt est vitae ultrices accumsan. Aliquam ornare lacus adipiscing, posuere lectus et, fringilla augue.</p>
+                        <p><img src="{{ asset('admin/receipts/receipt1.jpeg')}}" style="width:285px; height:170px;"></p>
                      </div>
-                     <div class="panel-footer">Panel Footer</div>
+                     <div class="panel-footer text-center" >
+                     <a href=""><i class="fa fa-trash" style="color:red; margin-right:40px;"></i></a>
+                     <a href="/admin/receipts/receipt1.jpeg" download><i class="fa fa-download" style="color:blue; margin-right:40px;" aria-hidden="true"></i></a>
+                    </div>
                   </div>
                   <!-- END panel-->
                </div>
