@@ -1,4 +1,4 @@
-<title>Wintermin - Apartment Management</title>
+<title>Apartments - Apartment Management</title>
 <!-- Bootstrap CSS-->
 <link rel="stylesheet" href="{{ asset('admin/app/css/bootstrap.css')}}">
 <!-- Vendor CSS-->

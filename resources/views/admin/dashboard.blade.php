@@ -50,7 +50,7 @@
                   @include('layouts.graph')
                   <!-- END chart-->
                   <!-- START messages and activity-->
-                  @include('layouts.chat')
+                  {{--@include('layouts.chat')--}}
                   <!-- END messages and activity-->
                </section>
                <!-- END dashboard main content-->

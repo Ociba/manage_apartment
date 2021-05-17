@@ -1,1 +1,1 @@
-<footer>&copy; {{ date('Y')}} - Wintermin</footer>
+<footer>&copy; {{ date('Y')}} - Apartments</footer>
